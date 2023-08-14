@@ -1,0 +1,20 @@
+1.
+INPUT: số ngày làm
+PROCESS: lương 1 ngày * số ngày làm = 100.000* số ngày làm
+OUTPUT: tiền lương nhân viên
+2.
+INPUT: số a, b, c, d, e
+PROCESS: trung bình =(a+b+c+d+e)/5
+OUTPUT: trung bình
+3.
+INPUT: USD đầu vào
+PROCESS: USD*23.000 (1 usd = 23.000)
+OUTPUT: nhận được VND
+4.
+INPUT: chiều dài, chiều rộng HCN
+PROCESS: diện tích = chiều dài * chiều rộng, chu vi = (chiều dài + chiều rộng)*2
+OUTPUT: diện tích, chu vi 
+5.
+INPUT: 1 số ngẫu nhiên n có 2 chữ số ab
+PROCESS: a= n/10 --> làm tròn xuống, b=n%10, tổng = a+b
+OUTPUT: tổng
