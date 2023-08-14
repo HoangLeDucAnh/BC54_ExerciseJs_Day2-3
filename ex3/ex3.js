@@ -3,5 +3,5 @@ function cal() {
   const result = usd * 23000;
   document.querySelector(
     ".render"
-  ).innerText = `${usd} USD được quy đổi sang ${result} VND`;
+  ).innerText = `${usd} USD được quy đổi sang ${result.toLocaleString()} VND`;
 }

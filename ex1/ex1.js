@@ -4,5 +4,5 @@ function calSalary() {
   const result = soNgay * luong1Ngay;
   document.querySelector(
     "#result"
-  ).innerText = `Tien luong cua ban la ${result}`;
+  ).innerText = `Tiền lương của bạn là ${result}`;
 }

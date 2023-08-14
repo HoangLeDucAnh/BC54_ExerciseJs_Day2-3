@@ -7,5 +7,5 @@ function cal() {
   const result = (a + b + c + d + e) / 5;
   document.querySelector(
     "#result"
-  ).innerText = `Trung bình 5 số bạn nhập là: ${result}`;
+  ).innerText = `Trung bình 5 số bạn vừa nhập là: ${result}`;
 }
